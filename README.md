@@ -1,5 +1,5 @@
 # RAG-Chatbot
-RAG-Chatbot is an advanced conversational AI tool that leverages the power of Retrieval Augmented Generation (RAG) models. It allows users to interact with the chatbot in different modes:
+RAG-Chatbot is an advanced conversational AI tool for MBBS Students that leverages the power of Retrieval Augmented Generation (RAG) models. It allows users to interact with the chatbot in different modes:
 
 - Chat with Knowledge Base: Users can query the chatbot’s knowledge base directly.
 - Upload PDF Files: Users can upload PDF files and chat based on the content.
