@@ -1,3 +1,5 @@
+Author: Shailaj Gautam
+
 # RAG-Chatbot
 RAG-Chatbot is an advanced conversational AI tool for MBBS Students And Healthcare Professionals that leverages the power of Retrieval Augmented Generation (RAG) models. It allows users to interact with the chatbot in different modes:
 
